@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#schedule-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#current-lesson {
+    margin-top: 20px;
+    font-size: 18px;
+}
